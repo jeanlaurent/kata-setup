@@ -1,6 +1,7 @@
 ## Simple Java Setup using Maven
 
 Adding popular testing libs :
+
 * junit
 * fest-assert
 * mockito
